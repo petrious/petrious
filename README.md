@@ -28,6 +28,6 @@ You can see more in my repos.
 <br />
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/petrious/petrious.svg)](http://hits.dwyl.com/petrious/petrious)
+[![HitCount](http://hits.dwyl.com/petrious/http://githubcom/petrious/.svg)](http://hits.dwyl.com/petrious/http://githubcom/petrious/)
 
 </div>
